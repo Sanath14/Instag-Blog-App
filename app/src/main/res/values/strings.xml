@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Instag</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_pass">Enter Your Password</string>
+    <string name="already_registered">Already Registered ? Sign In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered">Not Registered Yet ? Sign Up</string>
+    <string name="profile">My Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="username">Enter Your Name</string>
+    <string name="save">Save</string>
+    <string name="add_post">Add Post</string>
+    <string name="enter_caption">Write Caption here ....</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="write_Comment">Write Your Comment</string>
+</resources>
